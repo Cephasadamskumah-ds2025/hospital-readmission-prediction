@@ -14,13 +14,13 @@ The US healthcare system spends over $26 billion yearly on hospital readmissions
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](page1_executive_summary.png)
+![Executive Summary](visuals/page1_executive_summary.png)
 
 ### Patient Risk Explorer
-![Patient Risk Explorer](page2_patient_risk_explorer.png)
+![Patient Risk Explorer](visuals/page2_patient_risk_explorer.png)
 
 ### Model Insights
-![Model Insights](page3_model_insights.png)
+![Model Insights](visuals/page3_model_insights.png)
 
 ---
 
