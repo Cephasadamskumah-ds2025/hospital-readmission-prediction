@@ -1,12 +1,13 @@
+🚀 End-to-end machine learning project to predict 30-day hospital readmissions using clinical data, with an interactive Power BI dashboard for decision support.
+
 # Hospital Readmission Prediction
 
 Predicting 30-day hospital readmissions for diabetic patients using machine learning on 70,416 clinical records from 130 US hospitals.
 
----
 
 ## Problem Statement
 
-The US healthcare system spends over $26 billion yearly on hospital readmissions within 30 days. Some diabetic patients face higher readmission risk due to comorbidities and complex medication regimens; it is crucial to identify high-risk individuals before discharging is done. This project builds a machine learning pipeline that flags high-risk patients so clinical teams can prioritize post-discharge interventions.
+The US healthcare system spends over $26 billion yearly on hospital readmissions within 30 days. Some diabetic patients face a higher readmission risk due to comorbidities and complex medication regimens; it is crucial to identify high-risk individuals before discharge. This project builds a machine learning pipeline that flags high-risk patients, so clinical teams can prioritize post-discharge interventions.
 
 ---
  
